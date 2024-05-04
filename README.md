@@ -8,7 +8,7 @@
 
 # Objetivo
 
-projeto criado coo exemplo de requisições(GET/POST/PUT/DELETE) usando axios e uma API rest (mock.api)
+projeto criado como exemplo de requisições(GET/POST/PUT/DELETE) usando axios e uma API rest (mock.api)
 
 
 Node: v20.11.0
